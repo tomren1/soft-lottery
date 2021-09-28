@@ -1,1 +1,1 @@
-Will you win?
+https://en.wikipedia.org/wiki/Soft_error
