@@ -1,6 +1,6 @@
 #!/bin/bash
 
-osascript -e 'display alert "You have entered the lottery!"'
+osascript -e 'display alert "You've entered the lottery!"'
 
 declare -i x=0
 while [ $x -eq 0 ] ; do
